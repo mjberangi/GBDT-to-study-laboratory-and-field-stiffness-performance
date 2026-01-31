@@ -1,12 +1,3 @@
-Excellent content — this is already **strong**, but it suffers from two issues that *immediately break professional perception*:
-
-1. **Duplication / conflict** (the `=======` section looks like a merge artifact)
-2. Lack of a **clean narrative hierarchy** (problem → method → rigor → relevance)
-
-Below is a **fully cleaned, recruiter-grade README**, rewritten to match how **senior ML engineers / applied researchers** present work.
-This is **copy–paste ready**.
-
----
 
 # Gradient Boosting Decision Trees for Asphalt Stiffness Prediction
 
