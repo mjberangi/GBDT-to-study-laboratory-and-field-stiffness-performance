@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Data
+data/*.csv
+!data/generate_synthetic_data.py
+
+# Jupyter
+.ipynb_checkpoints
