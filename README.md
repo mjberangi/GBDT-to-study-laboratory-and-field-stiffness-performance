@@ -1,6 +1,7 @@
 # Gradient Boosting Decision Trees for Asphalt Stiffness Prediction
 
 ## Overview
+<<<<<<< HEAD
 This repository implements the machine learning methodology presented in the research paper **"Gradient boosting decision trees to study laboratory and field performance in asphalt mixtures"** (Berangi et al., 2024).
 
 The project predicts the **Stiffness Modulus (Sm)** of asphalt mixtures using various input parameters. It performs a rigorous comparison between **CatBoost (GBDT)**, **Random Forest (RF)**, and **Support Vector Machines (SVM)**.
@@ -12,6 +13,13 @@ This implementation goes beyond basic modeling to include advanced techniques de
 * **SHAP Analysis:** Provides model interpretability through SHapley Additive exPlanations, visualizing feature importance and impact.
 * **Robust Evaluation:** Uses **5-Fold Cross-Validation** to ensure reliable performance metrics.
 * **Confidentiality Preserved:** Includes a statistical data generator to create synthetic datasets that mirror the properties of the confidential field data.
+=======
+This repository implements the simple version of machine learning models presented in the research paper **"Gradient boosting decision trees to study laboratory and field performance in asphalt mixtures"** (Berangi et al., 2024).
+
+The project predicts the **Stiffness Modulus (Sm)** of asphalt mixtures using various input parameters. It compares the performance of **Random Forest (RF)**, **CatBoost (CB)**, and **Support Vector Machines (SVM)**. 
+
+**Note:** in this repository a synthetic dataset is used.
+>>>>>>> 7c9ad62657673725868b16f88475bb6a669320fc
 
 ## Methodology
 
